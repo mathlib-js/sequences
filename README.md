@@ -1,5 +1,5 @@
 # @mathlib/sequences
-### Mathematical sequence generator
+Mathematical sequence generator
 ## Installation
 ```
 npm install @mathlib/sequences
@@ -33,7 +33,7 @@ for (let val of fibonacci(Infinity)) {
 }
 ```
 
-## API
+## Available Sequences
 | OEIS Link | Sequence ▼ | Generator | Parameters |
 | --- | --- | --- | --- |
 | [A000045](https://oeis.org/A000045) | Fibonacci Series | `fibonacci(limit)` | limit (Default 10) |
