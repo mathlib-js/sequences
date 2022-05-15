@@ -1,0 +1,34 @@
+{
+  "name": "@mathlib/sequences",
+  "version": "1.0.0",
+  "description": "Mathematical sequence generator",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "npm run lint && tsc",
+    "prepublishOnly": "npm run test && npm run build",
+    "lint": "eslint ."
+  },
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathlib-js/sequences.git"
+  },
+  "author": "Vivek Dinesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mathlib-js/sequences/issues"
+  },
+  "homepage": "https://github.com/mathlib-js/sequences#readme",
+  "devDependencies": {
+    "@types/jest": "^27.5.1",
+    "@typescript-eslint/eslint-plugin": "^5.23.0",
+    "@typescript-eslint/parser": "^5.23.0",
+    "eslint": "^8.15.0",
+    "jest": "^28.1.0",
+    "ts-jest": "^28.0.2",
+    "typescript": "^4.6.4"
+  }
+}
