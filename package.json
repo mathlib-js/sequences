@@ -31,5 +31,6 @@
     "rimraf": "^3.0.2",
     "ts-jest": "^28.0.2",
     "typescript": "^4.6.4"
-  }
+  },
+  "keywords": ["mathlib", "sequences", "fibonacci", "lucas numbers", "natural numbers", "whole numbers"]
 }
