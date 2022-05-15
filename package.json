@@ -35,9 +35,12 @@
   "keywords": [
     "mathlib",
     "sequences",
+    "numbers",
+    "series",
     "fibonacci",
-    "lucas numbers",
-    "natural numbers",
-    "whole numbers"
+    "lucas",
+    "natural",
+    "tribonacci",
+    "whole"
   ]
 }
