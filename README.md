@@ -32,3 +32,11 @@ for (let val of fibonacci(Infinity)) {
   if (val > 100) break;
 }
 ```
+
+## API
+| Sequence | Generator | Parameters |
+| --- | --- | --- |
+| Fibonacci Series | fibonacci(limit) | limit (Default 10) |
+| Lucas Numbers | lucasNumbers(limit) | limit (Default 10) |
+| Natural Numbers | naturalNumbers(limit) | limit (Default 10) |
+| Whole Numbers | wholeNumbers(limit) | limit (Default 10) |
