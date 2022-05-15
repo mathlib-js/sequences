@@ -1,4 +1,4 @@
-const { naturalNumbers } = require("../src");
+import { naturalNumbers } from "../src";
 
 describe("Natural Numbers", () => {
   test("Should return an Iterable", () => {

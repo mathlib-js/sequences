@@ -1,4 +1,4 @@
-const { wholeNumbers } = require("../src");
+import { wholeNumbers } from "../src";
 
 describe("Whole Numbers", () => {
   test("Should return an Iterable", () => {

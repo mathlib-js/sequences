@@ -1,4 +1,4 @@
-const { fibonacci } = require("../src");
+import { fibonacci } from "../src";
 
 describe("Fibonacci Series" , () => {
   test("Should return an Iterable", () => {
