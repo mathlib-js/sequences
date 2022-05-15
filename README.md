@@ -37,7 +37,7 @@ for (let val of fibonacci(Infinity)) {
 | OEIS Link | Sequence ▼ | Generator | Parameters |
 | --- | --- | --- | --- |
 | [A000045](https://oeis.org/A000045) | Fibonacci Series | fibonacci(limit) | limit (Default 10) |
-| [A000032](https://oeis.org/A000032) | Lucas Numbers | lucasNumbers(limit) | limit (Default 10) |
-| [A000027](https://oeis.org/A000027) | Natural Numbers | naturalNumbers(limit) | limit (Default 10) |
+| [A000032](https://oeis.org/A000032) | Lucas Numbers | lucas(limit) | limit (Default 10) |
+| [A000027](https://oeis.org/A000027) | Natural Numbers | natural(limit) | limit (Default 10) |
 | [A000073](https://oeis.org/A000073) | Tribonacci Series | tribonacci(limit) | limit (Default 10) |
-| [A001477](https://oeis.org/A001477) | Whole Numbers | wholeNumbers(limit) | limit (Default 10) |
+| [A001477](https://oeis.org/A001477) | Whole Numbers | whole(limit) | limit (Default 10) |

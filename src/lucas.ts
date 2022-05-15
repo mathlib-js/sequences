@@ -1,4 +1,4 @@
-function* lucasNumbers(limit = 10) {
+function* lucas(limit = 10) {
   let count = 0;
   let a = 2;
   let b = 1;
@@ -13,4 +13,4 @@ function* lucasNumbers(limit = 10) {
   }
 }
 
-export default lucasNumbers;
+export default lucas;

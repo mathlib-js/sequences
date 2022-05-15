@@ -1,4 +1,4 @@
-function* wholeNumbers(limit = 10) {
+function* natural(limit = 10) {
   let count = 0;
 
   if (isNaN(limit) || limit < 1) {
@@ -6,8 +6,8 @@ function* wholeNumbers(limit = 10) {
   }
 
   while (count < limit) {
-    yield count++;
+    yield ++count;
   }
 }
 
-export default wholeNumbers;
+export default natural;

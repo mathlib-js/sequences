@@ -1,13 +1,13 @@
 import fibonacci from "./fibonacci";
-import lucasNumbers from "./lucasNumbers";
-import naturalNumbers from "./naturalNumbers";
+import lucas from "./lucas";
+import natural from "./natural";
 import tribonacci from "./tribonacci";
-import wholeNumbers from "./wholeNumbers";
+import whole from "./whole";
 
 export {
   fibonacci,
-  lucasNumbers,
-  naturalNumbers,
+  lucas,
+  natural,
   tribonacci,
-  wholeNumbers
+  whole
 };
