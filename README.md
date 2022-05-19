@@ -1,5 +1,8 @@
 # @mathlib/sequences
 Mathematical sequence generator
+
+[![Build & Test](https://github.com/mathlib-js/sequences/actions/workflows/node.js.yml/badge.svg)](https://github.com/mathlib-js/sequences/actions/workflows/node.js.yml)
+
 ## Installation
 ```
 npm install @mathlib/sequences
