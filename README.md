@@ -39,9 +39,11 @@ for (let val of fibonacci(Infinity)) {
 ## Available Sequences
 | OEIS Link | Sequence ▼ | Generator | Parameters |
 | --- | --- | --- | --- |
+| [A000142](https://oeis.org/A000142) | Factorials | `factorial(limit)` | limit (Default 10) |
 | [A000045](https://oeis.org/A000045) | Fibonacci Series | `fibonacci(limit)` | limit (Default 10) |
 | [A000124](https://oeis.org/A000124) | Lazy Caterer's Sequence <br> (Central Polygonal Numbers) | `lazyCaterers(limit)` | limit (Default 10) |
 | [A000032](https://oeis.org/A000032) | Lucas Numbers | `lucas(limit)` | limit (Default 10) |
 | [A000027](https://oeis.org/A000027) | Natural Numbers | `natural(limit)` | limit (Default 10) |
+| [A000129](https://oeis.org/A000129) | Pell Numbers | `pell(limit)` | limit (Default 10) |
 | [A000073](https://oeis.org/A000073) | Tribonacci Series | `tribonacci(limit)` | limit (Default 10) |
 | [A001477](https://oeis.org/A001477) | Whole Numbers | `whole(limit)` | limit (Default 10) |

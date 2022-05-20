@@ -37,10 +37,12 @@
     "sequences",
     "numbers",
     "series",
+    "factorial",
     "fibonacci",
     "lazy", "caterer",
     "lucas",
     "natural",
+    "pell",
     "tribonacci",
     "whole"
   ]
